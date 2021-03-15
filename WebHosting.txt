@@ -1,0 +1,5 @@
+Per fare hosting su github seguire questo link https://www.youtube.com/watch?v=8hrJ4oN1u_8
+
+per connettere il sito a un web domain seguire questo link https://www.youtube.com/watch?v=mPGi1IHQxFM
+
+il sito che ho attualemnte è : http://scienza-dati-italia.com/
